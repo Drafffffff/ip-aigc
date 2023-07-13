@@ -1,0 +1,12 @@
+{
+  "prompt": ",solo:1.5, De-tailed face description, best quality, 4K, Beautiful big eyes, detil eyes, full body:1.2, masterpiece, ultra-detailed, chibi:1, Accessories, 3d render, OC rendering, Ultra detailed, volumetric soft light, Master's work, 8K  < lora:blindbox_ is probably a blind box _ blindbox_v1_mix:0.8 >",
+  "negative_prompt": "cat,(watermark:1.5), (low quality:1.3), (worst quality:1.3), lowres, bad anatomy, (duplicate:1.7), inaccurate limb and hand and finger and long fingernails, error in captioning, extra digit, fewer digits, worst quality, low quality, normal quality, signature, username, bad-hands-5, lowres, bad anatomy, (duplicate:1.7), inaccurate limb and hand and finger and long fingernails, error in captioning, extra digit, fewer digits, worst quality, low quality, normal quality, signature, watermark, username, bad-hands-5, extra fingers, fewer fingers, (low quality, worst quality:1.4), (bad anatomy), (inaccurate limb:1.2), bad composition, inaccurate eyes, extra digit, fewer digits, (extra arms:1.2), easynegative, text, (multiple people:2), （two people：2）, cropped, jpeg artifacts, blurry, cropped, jpeg artifacts, blurry",
+  "seed": "-1",
+  "subseed": "-1",
+  "batch_size": "4",
+  "steps": 30,
+  "cfg_scale": 7,
+  "width": 512,
+  "height": 512,
+  "sampler_index": "DPM++ SDE Karras"
+}
